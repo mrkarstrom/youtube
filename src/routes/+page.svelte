@@ -1,3 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<i class="fa-solid fa-bars"></i>
+<div class="page-wrapper flex items-center justify-center w-full h-[200vh]">
+
+</div>
